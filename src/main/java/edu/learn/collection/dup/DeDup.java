@@ -1,6 +1,6 @@
-package edu.learn.collection.dup.collection.dup;
+package edu.learn.collection.dup;
 
-import edu.learn.collection.dup.exception.ComputationException;
+import edu.learn.exception.ComputationException;
 import org.apache.log4j.Logger;
 
 import java.util.*;

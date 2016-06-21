@@ -1,7 +1,7 @@
 package edu.learn.collection.dup.runner;
 
-import edu.learn.collection.dup.collection.dup.DeDup;
-import edu.learn.collection.dup.exception.ComputationException;
+import edu.learn.collection.dup.DeDup;
+import edu.learn.exception.ComputationException;
 import org.apache.log4j.Logger;
 
 /**

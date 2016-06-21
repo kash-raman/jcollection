@@ -1,4 +1,4 @@
-package edu.learn.collection.dup.exception;
+package edu.learn.exception;
 
 /**
  * Created by kash on 5/22/16.

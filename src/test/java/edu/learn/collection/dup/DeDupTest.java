@@ -1,7 +1,6 @@
 package edu.learn.collection.dup;
 
-import edu.learn.collection.dup.collection.dup.DeDup;
-import edu.learn.collection.dup.exception.ComputationException;
+import edu.learn.exception.ComputationException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

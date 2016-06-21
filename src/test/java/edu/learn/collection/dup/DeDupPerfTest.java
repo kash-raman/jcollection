@@ -1,6 +1,5 @@
 package edu.learn.collection.dup;
 
-import edu.learn.collection.dup.collection.dup.DeDup;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
